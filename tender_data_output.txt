@@ -1,0 +1,143 @@
+
+=== Sheet: Sheet1 ===
+Row 0: ["Company Name","Industry Type","Head Office Address","NCR Office Location","Contact Person","Designation","Phone No.","Email","Broker Involvement ","Remarks ","After call meeting/remarks"]
+Row 1: ["Airports Authority Of India","Airport/Aviation"," Rajiv Gandhi Bhawan, Safdarjung \r\nAirport, New Delhi - 110003"," Rajiv Gandhi Bhawan, Safdarjung \r\nAirport, New Delhi - 110003"," Sunil Kumar"," DGM (E-C)"," 011-24657900","gme-bihta@aai.aero","Yes ","NOT REACHABLE","TRIED CALLING MANY TIMES"]
+Row 2: ["National Highway Authority of India ","Construction/ Maintenance "," Sector-10, Dwarka, New Delhi ","Sector-10, Dwarka, New Delhi"," Tushar Vyas"," General Manager"," Extn: 1434"," tusharvyas@nhai.org","Yes","Has Aon as their Risk Advisor","Not Intrested in Meeting"]
+Row 3: ["Indian Highways Management Comapny Limited","Construction/ Maintenance "," Second Floor, Asia Bhawan, Sector 9, Dwarka, \r\nNew Delhi "," Second Floor, Asia Bhawan, Sector 9, Dwarka, \r\nNew Delhi "," A R Chitranshi","Chief Operating Officer"," 011- 25074200","tenders@ihmcl.com","Yes","Already have a broker","Not Intrested in Meeting"]
+Row 4: ["RailTel Corporation of India ","Data Center"," Plate-A, 6th Flr, Office Block Tower-2, \r\nEast Kidwai Nagar, New Delhi - 110023"," Plate-A, 6th Flr, Office Block Tower-2, \r\nEast Kidwai Nagar, New Delhi - 110023"," Sanjai Kumar"," Chairman & Managing Director"," 011-22900600","cmdrailtel@railtelindia.com",null,"Already closed their tender in March","Not Intrested in Meeting"]
+Row 5: ["National Small Industries Corporation ","MSME","NSIC Bhawan, Okhla Nsic, New Delhi ","NSIC Bhawan, Okhla Nsic, New Delhi ","Sujay Khattri","Insurance Head",7292067025,"hoadmin@nsic.co.in","Yes","GMC placed/ Tender for Asset will open in November. Done a physical with them they are open to onboard insurance brokers.","Meeting Done(Onboarding in Process)"]
+Row 6: ["GAIL(India) Limited","Energy Storage","GAIL (India) Limited, GAIL Bhawan, 16 Bhikaji \r\nCama Place, R.K. Puram, New Delhi ","GAIL (India) Limited, GAIL Bhawan, 16 Bhikaji \r\nCama Place, R.K. Puram, New Delhi "," Satya Prakash \r\nSrivastava"," Chief Manager (Project)"," 011-26172580"," slrnoida@gail.co.in","Yes","Closed their broker empanelment tender in April","Not Intrested in Meeting"]
+Row 7: ["ESE Energy Private Limited ","Ethnol"," Upper Ground Floor, A-4, Krishna Nagar, East Delhi, \r\nDelhi. ","Upper Ground Floor, A-4, Krishna Nagar, East Delhi, Delhi."," Anil Kumar Chaurasia"," Director",9560118288,"eseenergy4@gmail.com",null,"Got no. of person named Mayank who handels insurance he said he will get back to me after confirmation.","Called and texted him again but still not responded",null,null,null,null,"CUGL/C&P/TEN2627/14 tender for renewal of asset policy insurance."]
+Row 8: ["Noida Metro Rail Corporation ","Infrastructure "," Block-III, 3rd Floor, Ganga Shopping Complex, Sector-29, Noida 201301"," Block-III, 3rd Floor, Ganga Shopping Complex, Sector-29, Noida 201301","Mr. CA Rajan Prakash","DGM Finance","120-2210603","nmrcnoida@gmail.com","Yes","Placed for this year,with another broker","Not Intrested in Meeting"]
+Row 9: ["Vidya Green Ventures Private Limited","Ethnol"," Plot No.78, Ground Floor, Block- B Wazirpur Industrial \r\nArea, Delhi - 110052"," Plot No.78, Ground Floor, Block- B Wazirpur Industrial Area, Delhi - 110052"," Dharam Pal Aggarwal","Director",null,"vidyagreenventures@gmail.com",null,"NOT REACHABLE"]
+Row 10: ["Bakshi Land and Development Private Limited","Hospitality","OSE Commercial Block, Hotel Aloft, Asset 5B, \r\nAerocity, Hospitality District, IGI Airport, New Delhi","OSE Commercial Block, Hotel Aloft, Asset 5B, Aerocity, Hospitality District, IGI Airport, New Delhi","Amit Kumar","Insurance Concerned Person"," 011\r\n46044604"," ose.secretarial@gmail.com","No","Do not involve Brokers given their email and phone no. asked to send the company profile and will talk to their team."]
+Row 11: ["India Tourism Development Corporation","Hospitality","SCOPE COMPLEX, 6th Floor, Core 8, 7 Lodi Road, New Delhi - 110003","SCOPE COMPLEX, 6th Floor, Core 8, 7 Lodi Road, New Delhi - 110003","Mr. Aryan Gyanchandani","Manager-Finance","011-24307608","directorfin@itdc.co.in","Yes","Last year was placed with K.M. Dastur Reinsurance Brokers Pvt. Ltd","Not Intrested in Meeting"]
+Row 12: ["The Coalition for Disaster Resilient Infrastructure","Infrastructure ","IIPA Bhawan, Indian Institute of Public Administration , Indraprastha Estate,New Delhi","IIPA Bhawan, Indian Institute of Public Administration , Indraprastha Estate,New Delhi","Raj Vikram Singh","Senior Specialist- Disaster Risk Financing","011-35059999","info@cdri.world","Yes","Our existing client","Onging a tender process"]
+Row 13: ["Delhi Metro Rail Corporation ","Infrastructure ","Metro Building, Fire Brigade Lane, Barakhamba Road, New Delhi, Delhi","Metro Building, Fire Brigade Lane, Barakhamba Road, New Delhi, Delhi","Manvendra Singh","CE/Tender (O&M)"," 011-23413960/23417912/\r\n23417921","cetenderonm@dmrc.org, chitiz_1686@dmrc.org","Yes","Marsh India Insurance Brokers Private Ltd. is the existing broker","Not Intrested in Meeting"]
+Row 14: ["Uttar Bharat Hydro Power Pvt. Ltd","Hypro Power","Saraswati kunj, Golf Crse Rd, Gurugram, Haryana","Saraswati kunj, Golf Crse Rd, Gurugram, Haryana","Mr. Bhupender Jain","VP","0124-2574500",null,"No","NOT REACHABLE","TRIED CALLING MANY TIMES"]
+Row 15: ["RITES-REMCL","Railways","PNB Building, Bhikaji Cama Place, New Delhi ","PNB Building, Bhikaji Cama Place, New Delhi ","Sh. Rakesh Gupta ","Chief Financial Officer",9811915501,"rakeshgupta1@rites.com","Yes","Currently Prudent Insurance Brokers Private Limited is the appointed broker","Not Intrested in Meeting"]
+Row 16: ["NAFED","Fertilizers","Ring Road, New Delhi","Ring Road, New Delhi ","Saurav Sharma","Insurance Head",8510991777,"sharma210785@gmail.com","No","current policy placed from iffco tokyo","On Leave asked to get back in 1st week of July"]
+Row 17: ["National Highway Logistics Management Limited","Logistic Park","D-21, Corporate Park, Sector-21, Dwarka, New \r\nDelhi","D-21, Corporate Park, Sector-21, Dwarka, New Delhi"," Raj Singh Chauhan"," VP Logistics","011-25074100, Extn: 3419","rajsingh.chauhan@nhlml.org",null,"NOT REACHABLE"]
+Row 18: ["Hindustan Syringes and Medical Devices Limited","Medical Devices "," Narain Manzil, 23, Barakhamba Road, New Delhi "," Narain Manzil, 23, Barakhamba Road, New Delhi "," Sohail Nath"," Executive Director"," 011-23314785","legal@hmdhealthcare.\r\ncom","Yes","talked, told them insurance concerned person sit in factory office called but was not reachable asked to drop a mail with the proposal","Called again told that have already placed this years policies. Not intrested in meeting."]
+Row 19: ["Oil and Natural Gas Corportation Limited","Oil & Gas"," Deendayal Urja Bhavan, 5, \r\nNelson Mandela Marg, Vasant Kunj, New Delhi ","Deendayal Urja Bhavan, 5, Nelson Mandela Marg, Vasant Kunj, New Delhi"," Rajeeva Kumar"," Chief General Manager (Environment)"," 011-26750998/ 9968282636","head_env@ongc.co.in.","No","Does business directly with UNITED INDIA INSURANCE COMPANY.","Not Intrested in Meeting"]
+Row 20: ["Rail Vikas Nigam Limited","Railways"," 1st Floor, August Kranti Bhawan, \r\nBhikaji Cama Place, Africa Avenue, New Delhi"," 1st Floor, August Kranti Bhawan, \r\nBhikaji Cama Place, Africa Avenue, New Delhi"," Vivek Kumar","General Manager (Projects & CC)"," 011\r\n26738553","vivek.kumar2@rvnl.org","No","Do not involve insurance brokers.","Not Intrested in Meeting"]
+Row 21: ["FIEO – Federation of Indian Export Organisations","Trade Promotion / Government Body","Niryat Bhawan, Rao Tula Ram Marg, Opp. Army Hospital R&R, New Delhi – 110057","Niryat Bhawan, Rao Tula Ram Marg, Opp. Army Hospital R&R, New Delhi – 110057","Mrs. Nirmala Tete ","Director Admin ","011-46042161","nirmalatete@fieo.org","Yes","Policy already placed have UNISON insurance Broking Services Pvt. Ltd as their current insurance broker.","Not Intrested in Meeting"]
+Row 22: ["VDMInfra Projects LLP","Real Estate"," A-22, Sector-P3, Greater Noida, Gautam Buddha Nagar","A-22, Sector-P3, Greater Noida, Gautam Buddha Nagar","Sanjeev Kumar",null,8800118150,"vdminfraprojects@gmail.com","No","Called on 9 Jun 2026, Doesn't involve insurance brokers","Not Intrested in Meeting"]
+Row 23: ["Gabion Technologies India Limited","Geotechnical "," 38, 2nd floor, Mohhamadpur, Near Bhikaji \r\nCama Place, New Delhi","38, 2nd floor, Mohhamadpur, Near Bhikaji Cama Place, New Delhi","Madhusudan Sarda","Managing Director"," 011-46321074/ 9871063385","info@gabionindia.com",null,"NOT REACHABLE"]
+Row 24: ["NTPC Limited","Power / Energy","NTPC Bhawan, SCOPE Complex, Lodhi Road, New Delhi – 110 003","NTPC Bhawan, SCOPE Complex, Lodhi Road, New Delhi – 110 003","Shri Anil Kumar Jadli ","Director – HR","011-24360100","insurance@ntpc.co.in","Yes","ISSUE TENDER FOR APPOINTMENT OF INSURANCE BROKER(May)","placed for this year not intrested in meeting"]
+Row 25: ["SAIL","Steel/Manufacturing","Ispat Bhawan, Lodhi Road, New Delhi – 110 003","Ispat Bhawan, Lodhi Road, New Delhi – 110 003","Sh. Prabal Sandhu","Sr.Manager(HR)","011-24300333","pers.itb.med@sail.in","No","Doesn't have appointed insurance broker, issue tender for GMC Policy for retired employees in which both brokers and insurance company can participate.","Not Intrested in Meeting"]
+Row 26: ["Power Finance Corporation ","NBFC","Urjanidhi, 1 Barakhamba Lane, Connaught Place, New Delhi – 110 001","Urjanidhi, 1 Barakhamba Lane, Connaught Place, New Delhi – 110 001","G Jawahar "," General Manager(HR& Admin)","011-23456781","hr@pfcindia.com","Yes ","Its subsidiary, PFC consulting Ltd, Conducts periodic e-tenders to appoint Lenders Insurance Advisors(LIA) on a Project by Project Basis. SPA Insurance Broking Sevices, RMS ARC Insurance Brokers Pvt. Ltd. have successfully qualified in past PFCCL tenders.","Not Intrested in Meeting"]
+Row 27: ["NBCC Ltd.","Construction / Real Estate / Govt","NBCC Bhawan, Lodhi Road, New Delhi – 110 003c","NBCC Bhawan, Lodhi Road, New Delhi – 110 003c","Raveesh Sethi","General Manager(HRM)","011-24366988","raveesh_13@yahoo.com","No","Do not Appoint Broker instead issue tender in which Insurance company and Broker both can participate.","Not Intrested in Meeting"]
+Row 28: ["World Association of Small and Medium Enterprises","Msme","WASME International Secretariat, Plot no.4 Sector 16 A Film City Noida","WASME International Secretariat, Plot no.4 Sector 16 A Film City Noida","Sanjiv Layke","Executive Secretary ",9911500858,"es@wasmeinfo.org","Can Involve","Offers a Membership programe and once a part offer platform to expand inurance services","Done"]
+Row 29: ["SJVNL(Satluj Jal Vidyut Nigam)","Electricity"," Shakti Sadan, Corporate Office Complex, Shannon, Shimla, Himachal Pradesh – 171006","Office Block, Tower #1, 6th Floor, NBCC Complex, East Kidwai Nagar, New Delhi – 110023","Mr. Sanjeev Gupta","Manager-Finance","011-61901919","liaison.delhi@sjvn.nic.in","No","Do not appoint brokers","Not Intrested in Meeting"]
+Row 30: ["SPMCIL – Security Printing & Minting Corporation of India Ltd.","Currency / Security Printing / PSU","3rd Floor, Tower-G, World Trade Centre, Nauroji Nagar, New Delhi – 110029","3rd Floor, Tower-G, World Trade Centre, Nauroji Nagar, New Delhi – 110029","Mr. Hema","AM-F","011-23701225/011-43582200","info@spmcil.com","Yes","Currently have SMC insurance brokers, closed the tender in Feb. ","Not Intrested in Meeting"]
+Row 31: ["CWC(Central Warehousing Corporation)","Warehousing / Logistics / PSU","4/1 Siri Institutional Area, Hauz Khas, New Delhi – 110016","4/1 Siri Institutional Area, Hauz Khas, New Delhi – 110016","Ms. Shabdita Singh","AGM (G)",9582373705,"singhshabdita@cewacor.nic.in","Yes","Already have a broker","Not Intrested in Meeting"]
+Row 32: ["Indraprastha Institute Of Information Technology","Education","IIIT Delhi Okhla Ph-III, New Delhi ","IIIT Delhi Okhla Ph-III, New Delhi ","Mr. Mohit Kumar","Tender Management","Extn.-431","nfo@iiitd.ac.in","No","Issue tender for various insurance requirement in which broker as well as insurance company can participate","We met the eligibility criteria to apply for tender but failed to do as because quotes did not came."]
+Row 33: ["NFL ","Fertilizers","SCOPE Complex, Core-III,\r\n\r\n7, Institutional Area, Lodhi Road, New Delhi-110003","A-11, Sector-24, NOIDA-201301 (U.P.)","Mr.S.K.Prajapati","GM (F&A)",9818580830,"skprajapati@nfl .co.in","Yes","Issue tender for appointed of insurance broker","we have applied successfully"]
+Row 34: ["BECIL","Broadcasting","BECIL BHAWAN , C56 A/17 Sector62 , Noida -201307 U.P.","BECIL BHAWAN , C56 A/17 Sector62 , Noida -201307 U.P.","Mr.Harmohan","Insurance Personal","120-4177850",null,"Yes","new tender for policy of GMC closing on 17th June","Meeting Done"]
+Row 35: ["HITES(HLL INFRATECH SERVICE LIMITED)","Infrastucture","B-14 A, Sector 62, Noida-201 307","B-14 A, Sector 62, Noida-201 307","Chunnu Mukamina","Senior HR","120-4071500","cmukambika@hllhites.com","No","Issue tender only for insurance company","Contacted with reference to GPA tender, does not entertain broker of any kind"]
+Row 36: ["IPA(Indian Port Association)","Port and Marine ","Bhishma Pitamah Marg, New Delhi, Delhi 110003 ","Bhishma Pitamah Marg, New Delhi, Delhi 110003 ","Mr. Sudesh Tikku","HR","022 2436 8334",null,"No","Issue tender for HULL for both broker and insurance company.","Not Intrested in Meeting"]
+Row 37: ["National Film Development Corporation Limited","Information and Broadcasting","NFDC - FD Complex 24, Dr. Gopalrao Deshmukh Marg, Mumbai 400 026, Maharashtra.","Room No.-401, 4th Floor, Soochna Bhavan, Phase 1, C.G.O Complex, Lodhi Road, New Delhi 110 003.","Lalit Prasad Nauni","Tender Management","91 11243 69462/63","lalit@nfdcindia.com","No","Issue tender for brokers and insurance company.","Has a open tender for motor insurance "]
+Row 38: ["Indian Institute of Technology(Indian School of Mines) ","Education","Indian Institute of Technology(Indian School of Mines),Dhanbad, Jharkhand","IIT DELHI, Hauz Khas, New Delhi","Ravi Kumar Chaurasia(name on tender)","Deputy Registrar","326-223-5608(Mr. Dhananjay Kumar)","jrdtd@iitism.ac.in","No","Final Bid Submission Date-30th June, for student insurance policy. open for broker and insurance company","Tender No. SW-INS-CPPP-004-26-27, Tried calling many times but did not responded"]
+Row 39: ["Central U.P Gas Limited","Joint Venture of GAIL and BPCL","7th Floor, UPSIDC  Complex, A-1/4 Lakhanpur,\r\nKanpur -208024, U.P","7th Floor, UPSIDC  Complex, A-1/4 Lakhanpur,\r\nKanpur -208024, U.P","Mr. Shekhar Kankrej  ","Tender Management",9511118781,"shekhar.kankrej@cugl.co.in ","No","Issue tender for both broker and insurance company","CUGL/C&P/TEN2627/14 tender for renewal of asset policy insurance."]
+Row 40: ["DSIIC(Delhi State Industrial and Infrasturcture Development Corporation Ltd)","Infrastructure","N-36, Bombay Life Building,\r\nConnaught Circus, New Delhi - 110001","N-36, Bombay Life Building,\r\nConnaught Circus, New Delhi - 110001","Sh. Narender Kumar Singh","Director(Finance)","23730261\r\nSh. Raj Kumar, PS","fadsiidc@gmail.com","No","Doesnot involve broker placed insurance need directly through tenders","Not Intrested in meeting"]
+Row 41: ["HIL INDIA LTD.","Chemicals","SCOPE Complex, Core-6, 7, Lodi Road, New Delhi-110003","SCOPE Complex, Core-6, 7, Lodi Road, New Delhi-110003","Shri Srinivasa Raju","Director(Finance)","011-24364234,","commercialho@hil.gov.in   ","Yes ","Issue tender for broker empanelment have closed the process in April","Not Intrested in Meeting"]
+Row 42: ["Central Medical Service Society","Pharmaceuticals","2nd Floor, Vishwa Yuvak Kendra, Teen Murti Marg, Opp. Police Station, Chanakyapuri, New Delhi-110021.","2nd Floor, Vishwa Yuvak Kendra, Teen Murti Marg, Opp. Police Station, Chanakyapuri, New Delhi-110021.","Anurodh Singh","Tender Management","011-21410905/06","gmlogistics@cmss.gov.in","No","they issue their tender only for insurance company.. brokers can participate if authorised from insurance company and represent them.","Not Intrested in Meeting"]
+Row 43: ["GAIL India ltd.","Petroleum and Gas","GAIL Jubilee Tower, B-35 & 36, Sector - 1, Noida-201301 (Uttar Pradesh)","GAIL Bhawan, 16 Bhikaiji Cama Place, R K Puram, New Delhi - 110066","Mr. Alankar Sahu,","Sr. Officer (C&P)","05683-230329","alankar.sahu@gail.co.in","No","have an active tender which closes on July 1,  eligible for broker and insurance company","Pre bid meeting on 13 June"]
+Row 44: ["Software Tech Parks of India","IT/Tech","1st Floor, Plate B, Office Block-1, East Kidwai Nagar, New Delhi - 110023","1st Floor, Plate B, Office Block-1, East Kidwai Nagar, New Delhi - 110023","Sandeep Nair","Tender Management","11-24628081","con8.stpis.mp@gembuyer.in","No","neither involver broker nor allow them to participate in tenders.","Not Intrested in meeting"]
+Row 45: ["BHEL(Bharat Heavy Electronics Limited)","Electronics","Corporate Office,\r\nBHEL House,\r\nSiri Fort,\r\nNew Delhi - 110049,\r\nIndia,","Industry Sector,\r\nIntegrated Office Complex,\r\nLodhi Road,\r\nNew Delhi - 110003,","Mr. Neeraj Kumar","Sr. DGM","1166 33 7598","https://webmail.bhel.in/","Yes ","they occasionaly involve broker according to their need genrally issue tender for impanelment of insurance that take care of their insurance of various plants.","tried calling not intrested in meeting"]
+Row 46: ["Delhi State Civil Supplies Corporation LTD","Supplies","AAPURTI BHAWN; 7-9, ARAM BAGH; NEW DELHI – 110055","AAPURTI BHAWN; 7-9, ARAM BAGH; NEW DELHI – 110055","Shri Jai Prakash","GM (F&A)","011 2361 0120","dscsc@delhi.gov.in","No","They take care of the insurance requirement only through government owned insurance company.","Not Intrested in meeting"]
+Row 47: ["Department of Law,(Lawyers Association of India)","Legal","Karkaddoma Court, New Delhi","Karkaddoma Court, New Delhi","DD Pandey","Secretary",9810389119,"ddpandey119@gmail.com","Yes ","Tender inviting GMC for advocates, do not have specific classification for brokers or company if technical criteria is qualified then eligible.","Meeting Done"]
+Row 48: ["HUDCO – Housing & Urban Development Corporation","Housing","HUDCO Bhawan, India Habitat Centre, Lodhi Road, New Delhi – 110003","HUDCO Bhawan, India Habitat Centre, Lodhi Road, New Delhi – 110003","Mrs. Ruchika ","Tender Management","011-24648160/63/64","ruchika@hudco.org","No","Do not directly involve insurance brokers issue tenders for both, closed tender in april.","Not Intrested in Meeting"]
+Row 49: ["Prasar Bharti","Broadcasting","Prasar Bharati House, Copernicus Marg, New Delhi – 110001","Prasar Bharati House, Copernicus Marg, New Delhi – 110001","Ms. Kanika Makhija","Welfare section officer","011-23421041","groupinsurance.pb@gmail.com","No","Involves only insurance company for their requirement.","Not Intrested in Meeting"]
+Row 50: ["NHPC(National Hydroelectric Power Corporation)","Hydroelectricity","NHPC Office Complex,\r\nSector-33, Faridabad - 121003","NHPC Office Complex,\r\nSector-33, Faridabad - 121003","Navin Kumar Singh","GM(Civil) Division",1292254677,"contcivil2-co@nhpc.nic.in","No","Only involve insurance company, and tender is also issue only for insurance company.","Not Intrested in Meeting"]
+Row 51: ["CDC(Center for Disease Control)","Medicine","Shamnath Marg, Civil Lines, Delhi 110054 ","Shamnath Marg, Civil Lines, Delhi 110054 ","Mr. Ruchika Khanna","Head Support Services","011 2391 3148","nsrinivasan@cdcgroup.com","No","Doesnot involve broker in any sense.","Not Intrested in Meeting"]
+Row 52: ["RFCL(Ramagundam Fertilizers and Chemical Limited)","Fertilizers","Scope Complex, Core-III 7, Institutional Area, Lodhi Road, New Delhi, South Delhi, 110003, India ","Scope Complex, Core-III 7, Institutional Area, Lodhi Road, New Delhi, South Delhi, 110003, India ","Mr. Sanjay Grover","Manager-Finance","120-2553600","admin@rfcl.co.in","Yes ","Issue tender for broker empanelment have closed the process ","Not Intrested in Meeting"]
+Row 53: ["EGIS India Ltd.","Engineering","Egis Tower, Plot No 80, Sector - 32\r\nGurgaon - 122 001","T-305, TF, Tirupati Plaza, Sector-XI, (MLU) PKT-4, Plot No. 11, Dwarka, New Delhi, Delhi 110075","Mr. Ashok Sharma","Consultant","0124 478 7800","Vivek.A@egis-india.com",null,"NOT REACHABLE","Tried contacting many times"]
+Row 54: ["BSES Rajdhani Power Ltd.","Electricity ","BSES Bhawan, Nehru Place, New Delhi","BSES Bhawan, Nehru Place, New Delhi","Ms. Shilpa Suman ","General Manager(C&M)",8800919123,"shipa.suman@reliancegroupindia.com","Yes ","Have Marsh Insurance Broker as their advisory","Not Intrested in Meeting"]
+Row 55: ["EZOPS Technologies India Pvt. Ltd","IT/Tech","463 7th Ave #1504, New York, NY","Discovery Tower, Sec 62, Noida ",null,"HR",null,null,"Yes ","Current GMC Placed by LOCKTON Insurance Brokers ","Meeting Done"]
+Row 56: ["Container Corporation of India ","Logistics & Shipping ","CONCOR Bhawan, C-3, Mathura Road, Opposite Apollo Hospital, New Delhi-110076","CONCOR Bhawan, C-3, Mathura Road, Opposite Apollo Hospital, New Delhi-110076","PK Agrawal","Director(Domestic Division)","011-41673010","concor_biz@concorindia.com","Yes ","Closed Broker Imapnelment tender in Feburary.","Not Intrested in Meeting"]
+Row 57: ["Power Grid Corporation of India","Power Transmission","B-9, Qutub Institutional Area, Katwaria Sarai, New Delhi","Saudamini Plot No.-2, Sector-29,Gurgaon, Haryana","Anoop Kumar","Chief Manager(BD)","0124-2571700","powergrid_ncr@powergrid.in","Yes ","Appoint broker for All Risk Insurance for transmission of assets, did on july 2025","Not Intrested in Meeting"]
+Row 58: ["HPCL, Hindustan Petroleum Corporation Limited","Oil & Gas","Petroleum House,17, Jamshedji Tata Road, Mumbai","HPCL Regional Office, 8, Shoorji Vallabhdas Margn Nehru Place, New Delhi","Alok Kumar","General Manager","011-26444000","hpcl_ncr@hpcl.in","Yes ","Closed in April, works with Hindustan Insurance Brokers Limited as an insurance broker, amd utilizes Finhaat Insurance Broking Pvt. Ltd for managing specific employee benefit programs","Not Intrested in Meeting"]
+Row 59: ["BPCL,Bharat Petroleum Corporation Limited","Oil & Gas","Bharat Bhavan,4&6 Currimbhoy Road, Ballard Estate, Mumbai","BPCL Office, Plot No. A-5&6, Sector-1, Noida, UP","S.S Sundararajan","Chief Mnager(Marketing)","0120-2474000","bpcl_delhi@bharatpetroleum.in","No","Do not particularly engage brokers, issue policies through ICICI Lombard.","Not Intrested in Meeting"]
+Row 60: ["CIL,Coal India Limited","Mining & Coal","Coal Bhawan, Premise No-04 MAR, Plot No-AF-III, Action Area-1A, New Town,Rajahat, Kolkata","Core 6, 6th Floor, SCOPE Minar, Laxmi Nagar District Centre, Delhi","Manoj Kumar","General Manager(Sales)","011-22448860","gmsales.cil@coalindia.in","No","Float Tenders only for Gov. Insurance Comapny.","Not Intrested in Meeting"]
+Row 61: ["DFCCIL, Dedicated Freight Corridor Corporation","Railway Infrastructure","5th Foor, Supreme Court Metro Station Building Complex,New Delhi","5th Foor, Supreme Court Metro Station Building Complex,New Delhi","Hari Mohan Gupta","Managing Director","011-23454700","MD@DFCCIL.CO.IN","Yes ","Issue tender for broker appointment.","Not Intrested in Meeting"]
+Row 62: ["Engineers India Limited ","Engineering Consultancy","Engineers India Bhavan, 1, Bhikaji Cama Place, New Delhi","Engineers India Bhavan, 1, Bhikaji Cama Place, New Delhi","Vartika Shukla ","Chairman & Managing Director","022-26762121","cmd@eil.co.in","Yes ","Closed tender in Feburary, AON Insurance Broker appointed.","Not Intrested in Meeting"]
+Row 63: ["NBCC(India) Limited","Construction/Real Estate","NBCC Bhawan, Lodhi Road, New Delhi","NBCC Bhawan, Lodhi Road, New Delhi","K.P Mahdevaswamy","Chairman & Managing Director","011-24367314","bdd@nbccinida.com","No","Conduct its policies directly with public sector insurance company.","Not Intrested in Meeting"]
+Row 64: ["Mahanagar Telephone Nigam Limited","Telecom","Mahanagr Doorsanchar Sadan, 5th Floor, 9 CGO Complex, Lodhi Road, New Delhi","Mahanagr Doorsanchar Sadan, 5th Floor, 9 CGO Complex, Lodhi Road, New Delhi","Ravi A. Robert Jerad","Chairman & Managing Director","011-24319020","cmd@bol.net.in","No","Issue policy through tender only applicable to public sector insurance company","Not Intrested in Meeting"]
+Row 65: ["IRCON Internatinal Limited ","Construction/Railway","C-4, District Center, Saket, New Delhi","C-4, District Center, Saket, New Delhi","Brijesk Kumar Gupta ","General Manager(HRM)","011-29565666","info@ircon.org","Yes ","currently have global insurance private limited","Not Intrested in Meeting"]
+Row 66: ["FCI, Food Corporation of India","Logistics/Food Supply ","16-20, B"]
+
+Total rows: 67
+
+JSON Data (first 5 rows):
+[
+  {
+    "Company Name": "Airports Authority Of India",
+    "Industry Type": "Airport/Aviation",
+    "Head Office Address": " Rajiv Gandhi Bhawan, Safdarjung \r\nAirport, New Delhi - 110003",
+    "NCR Office Location": " Rajiv Gandhi Bhawan, Safdarjung \r\nAirport, New Delhi - 110003",
+    "Contact Person": " Sunil Kumar",
+    "Designation": " DGM (E-C)",
+    "Phone No.": " 011-24657900",
+    "Email": "gme-bihta@aai.aero",
+    "Broker Involvement ": "Yes ",
+    "Remarks ": "NOT REACHABLE",
+    "After call meeting/remarks": "TRIED CALLING MANY TIMES"
+  },
+  {
+    "Company Name": "National Highway Authority of India ",
+    "Industry Type": "Construction/ Maintenance ",
+    "Head Office Address": " Sector-10, Dwarka, New Delhi ",
+    "NCR Office Location": "Sector-10, Dwarka, New Delhi",
+    "Contact Person": " Tushar Vyas",
+    "Designation": " General Manager",
+    "Phone No.": " Extn: 1434",
+    "Email": " tusharvyas@nhai.org",
+    "Broker Involvement ": "Yes",
+    "Remarks ": "Has Aon as their Risk Advisor",
+    "After call meeting/remarks": "Not Intrested in Meeting"
+  },
+  {
+    "Company Name": "Indian Highways Management Comapny Limited",
+    "Industry Type": "Construction/ Maintenance ",
+    "Head Office Address": " Second Floor, Asia Bhawan, Sector 9, Dwarka, \r\nNew Delhi ",
+    "NCR Office Location": " Second Floor, Asia Bhawan, Sector 9, Dwarka, \r\nNew Delhi ",
+    "Contact Person": " A R Chitranshi",
+    "Designation": "Chief Operating Officer",
+    "Phone No.": " 011- 25074200",
+    "Email": "tenders@ihmcl.com",
+    "Broker Involvement ": "Yes",
+    "Remarks ": "Already have a broker",
+    "After call meeting/remarks": "Not Intrested in Meeting"
+  },
+  {
+    "Company Name": "RailTel Corporation of India ",
+    "Industry Type": "Data Center",
+    "Head Office Address": " Plate-A, 6th Flr, Office Block Tower-2, \r\nEast Kidwai Nagar, New Delhi - 110023",
+    "NCR Office Location": " Plate-A, 6th Flr, Office Block Tower-2, \r\nEast Kidwai Nagar, New Delhi - 110023",
+    "Contact Person": " Sanjai Kumar",
+    "Designation": " Chairman & Managing Director",
+    "Phone No.": " 011-22900600",
+    "Email": "cmdrailtel@railtelindia.com",
+    "Remarks ": "Already closed their tender in March",
+    "After call meeting/remarks": "Not Intrested in Meeting"
+  },
+  {
+    "Company Name": "National Small Industries Corporation ",
+    "Industry Type": "MSME",
+    "Head Office Address": "NSIC Bhawan, Okhla Nsic, New Delhi ",
+    "NCR Office Location": "NSIC Bhawan, Okhla Nsic, New Delhi ",
+    "Contact Person": "Sujay Khattri",
+    "Designation": "Insurance Head",
+    "Phone No.": 7292067025,
+    "Email": "hoadmin@nsic.co.in",
+    "Broker Involvement ": "Yes",
+    "Remarks ": "GMC placed/ Tender for Asset will open in November. Done a physical with them they are open to onboard insurance brokers.",
+    "After call meeting/remarks": "Meeting Done(Onboarding in Process)"
+  }
+]
+
+Headers: ["Company Name","Industry Type","Head Office Address","NCR Office Location","Contact Person","Designation","Phone No.","Email","Broker Involvement ","Remarks ","After call meeting/remarks"]
+
+Total data rows (excluding header): 66

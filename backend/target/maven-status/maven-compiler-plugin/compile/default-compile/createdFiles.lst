@@ -1,0 +1,8 @@
+com\tender\config\WebConfig.class
+com\tender\model\Tender.class
+com\tender\controller\TenderController.class
+com\tender\repository\TenderRepository.class
+com\tender\service\TenderService.class
+com\tender\config\DataInitializer.class
+com\tender\config\WebConfig$1.class
+com\tender\TenderApplication.class
