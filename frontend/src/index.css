@@ -82,7 +82,7 @@ body {
   position: fixed;
   top: 1rem;
   left: 1rem;
-  z-index: 1100;
+  z-index: 998; /* Below modal overlay (1000) so it doesn't overlap modals */
   background: var(--bg-secondary);
   border: 1px solid var(--border-color);
   color: var(--text-primary);
@@ -104,7 +104,7 @@ body {
   inset: 0;
   background: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(4px);
-  z-index: 999;
+  z-index: 999; /* Between hamburger (998) and sidebar (1000) */
 }
 
 /* Glassmorphism Classes */
@@ -385,7 +385,7 @@ tbody tr:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 1000;
+  z-index: 1100; /* Above everything including sidebar and hamburger */
   padding: 1rem;
 }
 
