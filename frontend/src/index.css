@@ -22,6 +22,8 @@
   --glass-border: rgba(255, 255, 255, 0.1);
   --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
   --card-radius: 16px;
+
+  --sidebar-width: 260px;
 }
 
 * {
@@ -71,6 +73,38 @@ body {
   overflow-y: auto;
   padding: 2rem;
   position: relative;
+  min-width: 0; /* Prevent flex child overflow */
+}
+
+/* ===== MOBILE MENU TOGGLE ===== */
+.mobile-menu-toggle {
+  display: none;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 1100;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.6rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.mobile-menu-toggle:hover {
+  background: var(--bg-tertiary);
+}
+
+/* Sidebar overlay for mobile */
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: 999;
 }
 
 /* Glassmorphism Classes */
@@ -115,6 +149,7 @@ input:focus, select:focus, textarea:focus {
   border: none;
   font-family: inherit;
   font-size: 0.95rem;
+  white-space: nowrap;
 }
 
 .btn-primary {
@@ -150,11 +185,14 @@ input:focus, select:focus, textarea:focus {
 
 /* Sidebar styling */
 .sidebar {
-  width: 260px;
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
   background: var(--bg-secondary);
   border-right: 1px solid var(--border-color);
   display: flex;
   flex-direction: column;
+  transition: transform 0.3s ease;
+  z-index: 1000;
 }
 
 .sidebar-brand {
@@ -248,6 +286,7 @@ input:focus, select:focus, textarea:focus {
   border-radius: 12px;
   background: rgba(255,255,255,0.05);
   color: var(--text-primary);
+  flex-shrink: 0;
 }
 
 .stat-icon.primary { background: rgba(99, 102, 241, 0.15); color: var(--accent-primary); }
@@ -256,6 +295,7 @@ input:focus, select:focus, textarea:focus {
 
 .stat-content {
   flex: 1;
+  min-width: 0;
 }
 
 .stat-title {
@@ -291,11 +331,13 @@ input:focus, select:focus, textarea:focus {
   width: 100%;
   overflow-x: auto;
   margin-top: 1.5rem;
+  -webkit-overflow-scrolling: touch;
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
+  min-width: 700px; /* Ensure table doesn't crush on mobile, scroll instead */
 }
 
 th {
@@ -420,4 +462,178 @@ tbody tr:hover {
   width: 600px; height: 600px;
   background: var(--accent-secondary);
   border-radius: 50%;
+}
+
+/* ========================================
+   RESPONSIVE BREAKPOINTS
+   ======================================== */
+
+/* Tablet & small desktops (<=1024px) */
+@media (max-width: 1024px) {
+  .charts-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .chart-card {
+    min-height: 300px;
+  }
+
+  .stat-value {
+    font-size: 1.75rem;
+  }
+}
+
+/* Tablet portrait & large phones (<=768px) */
+@media (max-width: 768px) {
+  /* Show mobile menu button */
+  .mobile-menu-toggle {
+    display: flex;
+  }
+
+  /* Sidebar becomes an off-canvas drawer */
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    transform: translateX(-100%);
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+
+  .sidebar-overlay.visible {
+    display: block;
+  }
+
+  /* Main content takes full width */
+  .main-content {
+    padding: 1.25rem;
+    padding-top: 4.5rem; /* Space for hamburger button */
+  }
+
+  /* Page header stacking */
+  .page-header.flex-between,
+  .flex-between.page-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .page-title {
+    font-size: 1.5rem;
+  }
+
+  /* Search + filter bar stacking */
+  .flex-between {
+    flex-wrap: wrap;
+  }
+
+  /* Form modal adjustments */
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .form-group.full-width {
+    grid-column: span 1;
+  }
+
+  .modal-content {
+    max-height: 95vh;
+    border-radius: 12px;
+  }
+
+  .modal-header, .modal-body, .modal-footer {
+    padding: 1rem;
+  }
+
+  /* Table cells tighter on tablet */
+  th, td {
+    padding: 0.75rem 1rem;
+  }
+
+  /* Background shapes smaller */
+  .bg-shape-1 {
+    width: 300px;
+    height: 300px;
+  }
+
+  .bg-shape-2 {
+    width: 350px;
+    height: 350px;
+  }
+}
+
+/* Small phones (<=480px) */
+@media (max-width: 480px) {
+  .main-content {
+    padding: 1rem;
+    padding-top: 4rem;
+  }
+
+  .page-title {
+    font-size: 1.25rem;
+  }
+
+  .page-subtitle {
+    font-size: 0.875rem;
+  }
+
+  .stat-card {
+    padding: 1rem;
+  }
+
+  .stat-value {
+    font-size: 1.5rem;
+  }
+
+  .stat-icon {
+    padding: 0.75rem;
+  }
+
+  .btn {
+    padding: 0.6rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  .charts-grid {
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .chart-card {
+    padding: 1rem;
+    min-height: 260px;
+  }
+
+  /* Modal goes almost full screen on small phones */
+  .modal-overlay {
+    padding: 0.5rem;
+    align-items: flex-end;
+  }
+
+  .modal-content {
+    max-height: 95vh;
+    border-radius: 16px 16px 0 0;
+  }
+
+  .modal-footer {
+    flex-direction: column;
+  }
+
+  .modal-footer .btn {
+    width: 100%;
+  }
+
+  /* Background shapes even smaller */
+  .bg-shape-1 {
+    width: 200px;
+    height: 200px;
+  }
+
+  .bg-shape-2 {
+    width: 250px;
+    height: 250px;
+  }
 }

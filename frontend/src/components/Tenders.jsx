@@ -216,8 +216,8 @@ const Tenders = () => {
       </div>
 
       <div className="glass-panel" style={{ padding: '1.5rem' }}>
-        <div className="flex-between" style={{ gap: '1rem', marginBottom: '1rem' }}>
-          <div style={{ position: 'relative', flex: 1, maxWidth: '400px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1rem', marginBottom: '1rem' }}>
+          <div style={{ position: 'relative', flex: '1 1 250px', minWidth: 0 }}>
             <Search size={18} style={{ position: 'absolute', left: '1rem', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-muted)' }} />
             <input 
               type="text" 
@@ -227,7 +227,7 @@ const Tenders = () => {
               style={{ paddingLeft: '2.5rem' }}
             />
           </div>
-          <button className="btn btn-secondary">
+          <button className="btn btn-secondary" style={{ flexShrink: 0 }}>
             <Filter size={18} /> Filters
           </button>
         </div>

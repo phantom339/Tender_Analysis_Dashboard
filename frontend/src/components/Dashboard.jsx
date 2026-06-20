@@ -64,7 +64,7 @@ const Dashboard = () => {
         <motion.p variants={itemVariants} className="page-subtitle">Overview of tender operations and prospects</motion.p>
       </div>
 
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '1.5rem' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1.5rem' }}>
         <motion.div variants={itemVariants} className="glass-panel stat-card">
           <div className="stat-icon primary">
             <Briefcase size={24} />
