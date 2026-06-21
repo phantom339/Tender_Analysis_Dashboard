@@ -31,25 +31,45 @@ public class Tender {
     @Column(name = "phone_no")
     private String phoneNo;
 
-    @Column(name = "email")
-    private String email;
+    @Column(name = "email_id")
+    private String emailId;
+
+    @Column(name = "tender_reference_no")
+    private String tenderReferenceNo;
+
+    @Column(name = "tender_status")
+    private String tenderStatus;
+
+    @Column(name = "type_of_insurance")
+    private String typeOfInsurance;
 
     @Column(name = "broker_involvement")
     private String brokerInvolvement;
 
-    @Column(name = "remarks", columnDefinition = "TEXT")
-    private String remarks;
+    @Column(name = "existing_broker")
+    private String existingBroker;
 
-    @Column(name = "after_call_remarks", columnDefinition = "TEXT")
-    private String afterCallRemarks;
+    @Column(name = "opportunity_stage")
+    private String opportunityStage;
+
+    @Column(name = "last_contact_date")
+    private String lastContactDate;
+
+    @Column(name = "remarks_intel", columnDefinition = "TEXT")
+    private String remarksIntel;
+
+    @Column(name = "after_call_notes", columnDefinition = "TEXT")
+    private String afterCallNotes;
 
     // Constructors
     public Tender() {}
 
     public Tender(String companyName, String industryType, String headOfficeAddress,
                   String ncrOfficeLocation, String contactPerson, String designation,
-                  String phoneNo, String email, String brokerInvolvement,
-                  String remarks, String afterCallRemarks) {
+                  String phoneNo, String emailId, String tenderReferenceNo,
+                  String tenderStatus, String typeOfInsurance, String brokerInvolvement,
+                  String existingBroker, String opportunityStage, String lastContactDate,
+                  String remarksIntel, String afterCallNotes) {
         this.companyName = companyName;
         this.industryType = industryType;
         this.headOfficeAddress = headOfficeAddress;
@@ -57,10 +77,16 @@ public class Tender {
         this.contactPerson = contactPerson;
         this.designation = designation;
         this.phoneNo = phoneNo;
-        this.email = email;
+        this.emailId = emailId;
+        this.tenderReferenceNo = tenderReferenceNo;
+        this.tenderStatus = tenderStatus;
+        this.typeOfInsurance = typeOfInsurance;
         this.brokerInvolvement = brokerInvolvement;
-        this.remarks = remarks;
-        this.afterCallRemarks = afterCallRemarks;
+        this.existingBroker = existingBroker;
+        this.opportunityStage = opportunityStage;
+        this.lastContactDate = lastContactDate;
+        this.remarksIntel = remarksIntel;
+        this.afterCallNotes = afterCallNotes;
     }
 
     // Getters and Setters
@@ -88,15 +114,33 @@ public class Tender {
     public String getPhoneNo() { return phoneNo; }
     public void setPhoneNo(String phoneNo) { this.phoneNo = phoneNo; }
 
-    public String getEmail() { return email; }
-    public void setEmail(String email) { this.email = email; }
+    public String getEmailId() { return emailId; }
+    public void setEmailId(String emailId) { this.emailId = emailId; }
+
+    public String getTenderReferenceNo() { return tenderReferenceNo; }
+    public void setTenderReferenceNo(String tenderReferenceNo) { this.tenderReferenceNo = tenderReferenceNo; }
+
+    public String getTenderStatus() { return tenderStatus; }
+    public void setTenderStatus(String tenderStatus) { this.tenderStatus = tenderStatus; }
+
+    public String getTypeOfInsurance() { return typeOfInsurance; }
+    public void setTypeOfInsurance(String typeOfInsurance) { this.typeOfInsurance = typeOfInsurance; }
 
     public String getBrokerInvolvement() { return brokerInvolvement; }
     public void setBrokerInvolvement(String brokerInvolvement) { this.brokerInvolvement = brokerInvolvement; }
 
-    public String getRemarks() { return remarks; }
-    public void setRemarks(String remarks) { this.remarks = remarks; }
+    public String getExistingBroker() { return existingBroker; }
+    public void setExistingBroker(String existingBroker) { this.existingBroker = existingBroker; }
 
-    public String getAfterCallRemarks() { return afterCallRemarks; }
-    public void setAfterCallRemarks(String afterCallRemarks) { this.afterCallRemarks = afterCallRemarks; }
+    public String getOpportunityStage() { return opportunityStage; }
+    public void setOpportunityStage(String opportunityStage) { this.opportunityStage = opportunityStage; }
+
+    public String getLastContactDate() { return lastContactDate; }
+    public void setLastContactDate(String lastContactDate) { this.lastContactDate = lastContactDate; }
+
+    public String getRemarksIntel() { return remarksIntel; }
+    public void setRemarksIntel(String remarksIntel) { this.remarksIntel = remarksIntel; }
+
+    public String getAfterCallNotes() { return afterCallNotes; }
+    public void setAfterCallNotes(String afterCallNotes) { this.afterCallNotes = afterCallNotes; }
 }
